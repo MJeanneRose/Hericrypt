@@ -1,0 +1,35 @@
+V1.7 A FAIRE
+
+Gestion de fichier plus grand (limite actuelle : (long)ftell)
+------------------------------------------
+
+V1.6
+Optimisation sous windows. Adaptation Linux.
+------------------------------------------
+
+V1.5
+
+Création CMakeLists, utilisation d'arguments
+------------------------------------------
+
+V1.4
+
+Optimisation mot de passe, optimisation générale, recherche et correction de bugs
+------------------------------------------
+
+V1.3
+
+Graphismes, Gestion erreur thread, vecteur d'initialisation
+------------------------------------------
+V1.2
+
+Demande de mot de passe, graphismes
+------------------------------------------
+V1.1
+
+Correction fuite mémoire, première optimisation du code
+
+------------------------------------------
+V1.0
+
+Fonctionnement normal sans mot de passe demandé, aucun changement du vecteur d'initialisation

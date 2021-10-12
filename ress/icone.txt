@@ -1,0 +1,5 @@
+png -> icone
+fichier .rc : 
+1 ICON "nom_fichier.ico"
+dans cmd : windress -i ressources.rc -o ressources.o
+Ajouter ressources.o au makefile
